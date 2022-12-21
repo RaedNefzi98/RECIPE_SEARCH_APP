@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://forkify-by-pawanjs.netlify.app/">
+  <a href="https://forkify-v2.netlify.app/">
     <img src="./src/img/logo.png" alt="Logo" width="100%" height="100%">
   </a>
 
@@ -55,9 +55,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li> 
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -66,7 +64,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://forkify-by-pawanjs.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://forkify-v2.netlify.app/)
 
 Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease
 servings as per his need and can view detailed directions.
@@ -167,14 +165,4 @@ See the [open issues](https://github.com/RaedNefzi98/RECIPE_SERCH_APP/issues) fo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/PawanJS/forkify?color=green&style=for-the-badge
-[contributors-url]: https://github.com/PawanJS/forkify/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PawanJS/forkify?style=for-the-badge
-[forks-url]: https://github.com/PawanJS/forkify/network/members
-[pull-requests-shield]: https://img.shields.io/github/issues-pr/PawanJS/forkify?style=for-the-badge
-[pull-requests-url]: https://github.com/PawanJS/forkify/pulls
-[issues-shield]: https://img.shields.io/bitbucket/issues/PawanJS/forkify?style=for-the-badge
-[issues-url]: https://github.com/PawanJS/forkify/issues
-[license-shield]: https://img.shields.io/apm/l/vim-mode?label=LICENSE&style=for-the-badge
-[license-url]: https://github.com/PawanJS/forkify/blob/master/LICENSE.txt
-[product-screenshot]: ./src/img/screenshot.jpg
+
