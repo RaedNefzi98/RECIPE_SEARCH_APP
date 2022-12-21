@@ -28,11 +28,11 @@
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://forkify-by-pawanjs.netlify.app/">View Demo</a>
+    <a href="https://forkify-v2.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/PawanJS/forkify/issues">Report Bug</a>
+    <a href="https://github.com/RaedNefzi98/RECIPE_SERCH_APP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PawanJS/forkify/issues">Request Feature</a>
+    <a href="https://github.com/RaedNefzi98/RECIPE_SERCH_APP/issues">Request Feature</a>
   </p>
 </p>
 
@@ -101,10 +101,9 @@ Start with the latest version of NPM to avoid any errors:
 ### Installation
 
 1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
+
 2. Clone the repo
-   ```sh
-   git clone https://github.com/PawanJS_/forkify.git
-   ```
+ 
 3. Install NPM packages
    ```sh
    npm install
@@ -132,7 +131,7 @@ _For more examples, please refer to the [Documentation](https://forkify-api.hero
 
 ## Roadmap
 
-See the [open issues](https://github.com/PawanJS/forkify/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/RaedNefzi98/RECIPE_SERCH_APP/issues) for a list of proposed features (and known issues).
 
 ### Proposed features
 
@@ -153,31 +152,8 @@ See the [open issues](https://github.com/PawanJS/forkify/issues) for a list of p
 7. Nutrition data on each ingredient from spoonacular API (https://
    spoonacular.com/food-api) and calculate total calories of recipe.
 
-<!-- CONTRIBUTING -->
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Pawan JS - [Say Hie](https://www.pawanjs.com/)
-
-Project Link: [https://github.com/PawanJS/forkify](https://github.com/PawanJS/forkify)
 
 <!-- ACKNOWLEDGEMENTS -->
 
